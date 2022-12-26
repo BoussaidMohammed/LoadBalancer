@@ -10,7 +10,7 @@
 	<groupId>org.mql.cloud</groupId>
 	<artifactId>Load-Balancer-Algorithm</artifactId>
 	<version>1.0</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<name>Load-balancer</name>
 	<description>Demo project for Spring Boot</description>
 	
